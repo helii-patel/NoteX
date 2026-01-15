@@ -1,0 +1,21 @@
+Example expanded project folder tree (textual)
+
+flutter_note_taking_app-master/
+|-- android/
+|   |-- app/
+|   |   |-- src/
+|   |   |   |-- main/
+|-- ios/
+|   |-- Runner/
+|-- assets/
+|   |-- images/
+|-- lib/
+|   |-- main.dart
+|   |-- controllers/
+|   |-- models/
+|   |-- screens/
+|   |-- services/
+|-- pubspec.yaml
+|-- README.md
+
+Tip: run `tree /F /A > folder_tree.txt` on Windows from the repository root to generate a full listing.
